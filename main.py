@@ -8,7 +8,7 @@ import random
 bot = commands.Bot(command_prefix="!")
 voted = [572448507344977942, 615936514219835393, 269750332337291264]
 votingenabled = False
-amac = 3
+amac = 0
 lukas = 0
 sep = 0
 
