@@ -6,7 +6,7 @@ import logging
 import random
 
 bot = commands.Bot(command_prefix="!")
-voted = [572448507344977942, 615936514219835393, 269750332337291264]
+voted = []
 votingenabled = False
 amac = 0
 lukas = 0
